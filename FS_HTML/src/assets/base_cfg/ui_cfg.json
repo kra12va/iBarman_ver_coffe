@@ -1,0 +1,7 @@
+{
+    "button":true,
+    "web":true,
+    "mqtt":true,
+    "screen":true,
+    "ap":false
+}

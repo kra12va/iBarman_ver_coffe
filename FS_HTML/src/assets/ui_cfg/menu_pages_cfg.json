@@ -1,0 +1,30 @@
+[
+    {
+        "id":1, 
+        "title":"Коктейли", 
+        "ico":"./src/assets/margarita.png", 
+        "chapter":"main"
+    },
+    {
+        "id":2, "title":"Напитки", "ico":"./src/assets/rome.png", 
+        "chapter":"drinks"
+    },
+    {
+        "id":3, 
+        "title":"Двигатель", 
+        "ico":"./src/assets/engine.png", 
+        "chapter":"drive-config"
+    },
+    {
+        "id":4, 
+        "title":"Настройки МК", 
+        "ico":"./src/assets/mk-config.png", 
+        "chapter":"mk-config"
+    },
+    {
+        "id":5, 
+        "title":"WiFi", 
+        "ico":"./src/assets/ico-wi-fi-ok-64.png", 
+        "chapter":"wifi-config"
+    }
+  ]

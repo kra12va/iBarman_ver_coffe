@@ -1,0 +1,34 @@
+[
+    {
+        "id":1, 
+        "title":"Водка", 
+        "ico":"./src/assets/vodka.png", 
+        "chapter":"vodka"
+    },
+    {
+        "id":2, "title":"Газ Вода", 
+        "ico":"./src/assets/pour.png", 
+        "chapter":"soda"
+    },
+    {
+        "id":3, 
+        "title":"Пиноколада", 
+        "ico":"./src/assets/dajkiri.png", 
+        "chapter":"pinokolado"
+    },
+    {
+        "id":4, "title":"Мандарин", 
+        "ico":"./src/assets/margarita.png", 
+        "chapter":"mandarin"
+    },
+    {
+        "id":5, "title":"Вишня шоколад", 
+        "ico":"./src/assets/cherry.png", 
+        "chapter":"cherry"
+    },
+    {
+        "id":6, "title":"Мохито", 
+        "ico":"./src/assets/mojito.png", 
+        "chapter":"mohito"
+    }
+  ]

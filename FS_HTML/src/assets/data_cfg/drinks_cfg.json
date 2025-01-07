@@ -1,0 +1,62 @@
+[
+{
+    "id":1, 
+    "title":"Идти на 0", 
+    "ico":"./src/assets/zero.png", 
+    "chapter":"start"
+},
+{
+    "id":2, 
+    "title":"Водка", 
+    "ico":"./src/assets/vodka.png", 
+    "chapter":"vodka"
+},
+{
+    "id":3, 
+    "title":"Джин", 
+    "ico":"./src/assets/gin.png", 
+    "chapter":"gin"
+},
+{
+    "id":4, 
+    "title":"Ром", 
+    "ico":"./src/assets/rome.png", 
+    "chapter":"rome"
+},
+{
+    "id":5, 
+    "title":"Блюкурасау", 
+    "ico":"./src/assets/likerblue.png", 
+    "chapter":"likerblue"
+},
+{
+    "id":6, 
+    "title":"Виски", 
+    "ico":"./src/assets/whisky.png", 
+    "chapter":"whisky"
+},
+{
+    "id":7, 
+    "title":"Текила", 
+    "ico":"./src/assets/tequila.png", 
+    "chapter":"tequila"
+},
+{
+    "id":8, 
+    "title":"Налить", 
+    "ico":"./src/assets/pour.png", 
+    "chapter":"pour"
+},
+{
+    "id":9, 
+    "title":"Налить Колы", 
+    "ico":"./src/assets/cola.png", 
+    "chapter":"pour_cola"
+},
+{
+    "id":10, 
+    "title":"Налить Спрайт", 
+    "ico":"./src/assets/sprite.png", 
+    "chapter":"pour_sprite"
+}
+]

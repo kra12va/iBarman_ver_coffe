@@ -1,0 +1,53 @@
+[
+    {
+        "id":1, 
+        "title":"Идти на 0", 
+        "ico":"./src/assets/zero.png", 
+        "value":0,
+        "mk_param_name":"position_ziro"
+    },
+    {
+        "id":2, 
+        "title":"Водка, шаг:", 
+        "ico":"./src/assets/vodka.png", 
+        "value":2000
+    },
+    {
+        "id":3, 
+        "title":"Джин, шаг:", 
+        "ico":"./src/assets/gin.png", 
+        "value":4700
+    },
+    {
+        "id":4, 
+        "title":"Ром, шаг:", 
+        "ico":"./src/assets/rome.png", 
+        "value":7400
+    },    
+    {
+        "id":5, 
+        "title":"Блюкурасау, шаг:", 
+        "ico":"./src/assets/likerblue.png", 
+        "value":10100},
+    {
+        "id":6, 
+        "title":"Виски, шаг:", 
+        "ico":"./src/assets/whisky.png", 
+        "value":12800},
+    {
+        "id":7, 
+        "title":"Текила, шаг:", 
+        "ico":"./src/assets/tequila.png", 
+        "value":15500},
+    {
+        "id":8, 
+        "title":"Налить, мс:", 
+        "ico":"./src/assets/pour.png", 
+        "value":"3000"},
+    {
+        "id":9, 
+        "title":"Наливать сладкий напиток, имп:", 
+        "ico":"./src/assets/cola.png", 
+        "value":100}
+  ]
+

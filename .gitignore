@@ -1,0 +1,5 @@
+CONFIGURATION_OTA.ino.bootloader.bin
+CONFIGURATION_OTA.ino.elf
+CONFIGURATION_OTA.ino.map
+CONFIGURATION_OTA.ino.merged.bin
+CONFIGURATION_OTA.ino.partitions.bin
